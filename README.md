@@ -1,8 +1,8 @@
 # Intro:
 
-Hi My Name is Adi Pandey from Indonesia, I have interest in Data World (Engineering, Science, etc).
+Hi My Name is Adi Pandey from Indonesia, I have interest in Code
 
-I'm learning Python right now, I love learning other language/app to increase my capability and experience in Data World.
+I'm learning Python right now, I love learning other language/app to increase my capability and experience.
 
 Contact me : adispandey12@gmail.com 
 
