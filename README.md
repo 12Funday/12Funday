@@ -2,7 +2,8 @@
 
 Hi My Name is Adi Pandey from Indonesia, I have interest in Code
 
-I'm learning Python right now, I love learning other language/app to increase my capability and experience.
+I work on Tech Company in Jakarta, Indonesia as a support (Ops).
+Currently work with kubernetes, CI/CD and microservices development.
 
 Contact me : adispandey12@gmail.com 
 
