@@ -2,7 +2,7 @@
 
 Hi My Name is Adi Pandey from Indonesia, I have interest in Code
 
-I work on Tech Company in Jakarta, Indonesia as a support (Ops).
+I work on Tech Company in Jakarta, Indonesia as a DevOps.
 Currently work with kubernetes, CI/CD and microservices development.
 
 Contact me : adispandey12@gmail.com 
